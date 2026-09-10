@@ -1,0 +1,6 @@
+{
+  "name": "Carrefour MKP 3PL Tracker",
+  "description": "UAE Shipment Tracking internal shortcut tool for Carrefour Marketplace 3PL partners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
